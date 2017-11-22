@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jstransformer-coffee-script": "^1.1.0",
+    "pug": "^2.0.0-rc.4",
+    "underscore": "^1.8.3"
+  }
+}
